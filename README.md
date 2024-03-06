@@ -32,8 +32,8 @@ Install my-project(ChatApp) with npm
     
 ## Technology Used
 
-* Frontend: React.js, HTML5, CSS3
-* Backend: Node.js, Express.js
-* Database: MongoDB
-* Authentication: JSON Web Tokens (JWT)
-* Notifications: Web Push Notifications
+* Frontend: React.js, HTML5, CSS3.
+* Backend: Node.js, Express.js.
+* Database: MongoDB.
+* Authentication: JSON Web Tokens (JWT).
+* Notifications: Web Push Notifications.
